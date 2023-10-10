@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979104592433",
+    "project_id": "tourapp-8a133",
+    "storage_bucket": "tourapp-8a133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979104592433:android:c0ba24bc79a81b68a35b10",
+        "android_client_info": {
+          "package_name": "com.example.tourtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979104592433-epfu7e8g3c80pduvc2c4p88fva5okp7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjOp1G8cSJ_ro-Tu26eXmPqsz-U_TwU-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979104592433-epfu7e8g3c80pduvc2c4p88fva5okp7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
